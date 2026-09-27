@@ -1,0 +1,15 @@
+{
+  "name": "@expatslistorg/free100influencerleads",
+  "version": "1.0.0",
+  "description": "Claude skill: how to use Free100InfluencerLeads, 300K+ Instagram micro-influencer contacts.",
+  "homepage": "https://free100influencerleads.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExpatslistORG/free100influencerleads.com"
+  },
+  "files": ["SKILL.md", "README.md"],
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
